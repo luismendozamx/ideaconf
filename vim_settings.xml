@@ -22,6 +22,12 @@
         <mark key="^" line="30" column="47" />
         <mark key="." line="30" column="47" />
       </file>
+      <file name="$USER_HOME$/dev/Angular/tutorial/chapter05/item-service-using-provider/app.js" timestamp="1453417380638">
+        <mark key="[" line="41" column="31" />
+        <mark key="]" line="41" column="34" />
+        <mark key="." line="41" column="34" />
+        <mark key="^" line="41" column="34" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="13" column="16" filename="$USER_HOME$/dev/Angular/tutorial/chapter05/simple-angularjs-service/app.js" />
@@ -29,29 +35,32 @@
       <jump line="37" column="2" filename="$USER_HOME$/dev/Angular/tutorial/chapter05/simple-angularjs-service/app.js" />
     </jumps>
     <registers>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gSXRlU2VydmljZS5saXN0KCk7Cg==</text>
+      <register name="1" type="4">
+        <text>false</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gSXRlU2VydmljZS5saXN0KCk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>false</text>
       </register>
-      <register name="2" type="4">
-        <text>m</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICByZXR1cm4gSXRlU2VydmljZS5saXN0KCk7Cg==</text>
       </register>
       <register name="3" type="4">
-        <text>u</text>
+        <text>m</text>
       </register>
       <register name="4" type="4">
-        <text>bCtrl', ['ItemService',</text>
+        <text>u</text>
       </register>
       <register name="5" type="4">
+        <text>bCtrl', ['ItemService',</text>
+      </register>
+      <register name="6" type="4">
         <text>Ctrl</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgIHZhciBzZWxmID0gdGhpczsK</text>
       </register>
       <register name="-" type="4">
-        <text>m</text>
+        <text>false</text>
       </register>
     </registers>
     <search>

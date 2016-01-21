@@ -1,0 +1,74 @@
+<application>
+  <component name="VimSettings">
+    <state version="4" enabled="true" />
+    <globalmarks />
+    <filemarks>
+      <file name="$USER_HOME$/dev/Angular/tutorial/chapter05/simple-angularjs-service/app.js" timestamp="1453412821968">
+        <mark key="'" line="37" column="2" />
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="14" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/mercadoni/frontend/js/partials/root.html" timestamp="1453406970304">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="6" column="6" />
+        <mark key="^" line="6" column="6" />
+        <mark key="." line="6" column="6" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="13" column="16" filename="$USER_HOME$/dev/Angular/tutorial/chapter05/simple-angularjs-service/app.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/dev/Angular/tutorial/chapter05/simple-angularjs-service/app.js" />
+      <jump line="37" column="2" filename="$USER_HOME$/dev/Angular/tutorial/chapter05/simple-angularjs-service/app.js" />
+    </jumps>
+    <registers>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICByZXR1cm4gSXRlU2VydmljZS5saXN0KCk7Cg==</text>
+      </register>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICByZXR1cm4gSXRlU2VydmljZS5saXN0KCk7Cg==</text>
+      </register>
+      <register name="2" type="4">
+        <text>m</text>
+      </register>
+      <register name="3" type="4">
+        <text>u</text>
+      </register>
+      <register name="4" type="4">
+        <text>bCtrl', ['ItemService',</text>
+      </register>
+      <register name="5" type="4">
+        <text>Ctrl</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIHZhciBzZWxmID0gdGhpczsK</text>
+      </register>
+      <register name="-" type="4">
+        <text>m</text>
+      </register>
+    </registers>
+    <search>
+      <last-dir>0</last-dir>
+      <show-last>false</show-last>
+    </search>
+    <history>
+      <history-search />
+      <history-cmd>
+        <entry>set list!</entry>
+      </history-cmd>
+      <history-expr />
+      <history-input />
+    </history>
+    <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed G</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed N</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
+    <editor>
+      <key-repeat enabled="false" />
+    </editor>
+  </component>
+</application>

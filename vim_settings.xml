@@ -60,6 +60,13 @@
         <mark key="^" line="12" column="29" />
       </file>
       <file name="$USER_HOME$/dev/mercadoni/frontend/js/services/User.js" timestamp="1453492086950" />
+      <file name="$USER_HOME$/dev/Angular/tutorial/chapter07/karma.conf.js" timestamp="1453493311747">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="9" column="6" />
+        <mark key="]" line="9" column="6" />
+        <mark key="." line="9" column="6" />
+        <mark key="^" line="9" column="6" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="13" column="16" filename="$USER_HOME$/dev/Angular/tutorial/chapter05/simple-angularjs-service/app.js" />
@@ -73,51 +80,42 @@
       <jump line="30" column="2" filename="$USER_HOME$/dev/Angular/tutorial/chapter06/server.js" />
       <jump line="32" column="13" filename="$USER_HOME$/dev/Angular/tutorial/chapter06/server.js" />
       <jump line="37" column="2" filename="$USER_HOME$/dev/Angular/tutorial/chapter06/server.js" />
+      <jump line="18" column="2" filename="$USER_HOME$/dev/Angular/tutorial/chapter07/karma.conf.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/dev/Angular/tutorial/chapter07/karma.conf.js" />
     </jumps>
     <registers>
       <register name="1" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgYWx0PSJMb2dvIEtpd2ki</text>
+        <text>angular-mocks.js',</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgYWx0PSJMb2dvIEtpd2ki</text>
+        <text>angular-mocks.js',</text>
       </register>
       <register name="2" type="4">
-        <text>Kiwi | Bienvenido</text>
+        <text>angular-</text>
       </register>
-      <register name="3" type="8">
-        <text>/note
-/note
-/note
-/note
-/note</text>
+      <register name="3" type="4">
+        <text>angular</text>
       </register>
-      <register name="4" type="8">
-        <text>/note
-/note
-/note
-/note</text>
+      <register name="4" type="4">
+        <text>exports</text>
       </register>
-      <register name="5" type="8">
-        <text>/note
-/note
-/note
-/note
-/note</text>
+      <register name="5" type="4">
+        <text>module</text>
       </register>
-      <register name="6" type="4">
-        <text>false</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIF0sCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gSXRlU2VydmljZS5saXN0KCk7Cg==</text>
+        <text encoding="base64">ICAgICAgJyouanMnCg==</text>
       </register>
-      <register name="8" type="4">
-        <text>m</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgJ2FuZ3VsYXItbW9ja3MuanMnLAo=</text>
       </register>
-      <register name="9" type="4">
-        <text>u</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgJ2FuZ3VsYXIubWluLmpzJywK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgYWx0PSJMb2dvIEtpd2ki</text>
+        <text>angular-mocks.js',</text>
       </register>
       <register name="/" type="4">
         <text>note</text>

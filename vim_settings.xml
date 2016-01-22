@@ -25,6 +25,12 @@
         <mark key="^" line="6" column="6" />
         <mark key="." line="6" column="6" />
       </file>
+      <file name="$USER_HOME$/dev/mercadoni/emails/src/newsletter.html" timestamp="1453423643984">
+        <mark key="[" line="20" column="47" />
+        <mark key="]" line="20" column="75" />
+        <mark key="^" line="20" column="75" />
+        <mark key="." line="20" column="75" />
+      </file>
       <file name="$USER_HOME$/dev/Angular/tutorial/chapter05/simple-angularjs-service/index.html" timestamp="1453414884961">
         <mark key="[" line="15" column="50" />
         <mark key="]" line="30" column="47" />
@@ -37,12 +43,19 @@
         <mark key="." line="41" column="34" />
         <mark key="^" line="41" column="34" />
       </file>
+      <file name="$USER_HOME$/dev/mercadoni/emails/src/stylesheets/email.css" timestamp="1453423584483">
+        <mark key="[" line="186" column="15" />
+        <mark key="]" line="186" column="14" />
+        <mark key="^" line="186" column="14" />
+        <mark key="." line="186" column="14" />
+      </file>
       <file name="$USER_HOME$/dev/Angular/tutorial/chapter06/server.js" timestamp="1453419280504">
         <mark key="'" line="33" column="2" />
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
         <mark key="^" line="6" column="0" />
       </file>
+      <file name="$USER_HOME$/dev/mercadoni/emails/src/old.html" timestamp="1453423393597" />
     </filemarks>
     <jumps>
       <jump line="13" column="16" filename="$USER_HOME$/dev/Angular/tutorial/chapter05/simple-angularjs-service/app.js" />
@@ -58,25 +71,14 @@
       <jump line="37" column="2" filename="$USER_HOME$/dev/Angular/tutorial/chapter06/server.js" />
     </jumps>
     <registers>
-      <register name="1" type="8">
-        <text>/note
-/note
-/note
-/note
-/note</text>
+      <register name="1" type="4">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgYWx0PSJMb2dvIEtpd2ki</text>
       </register>
-      <register name="&quot;" type="8">
-        <text>/note
-/note
-/note
-/note
-/note</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgYWx0PSJMb2dvIEtpd2ki</text>
       </register>
-      <register name="2" type="8">
-        <text>/note
-/note
-/note
-/note</text>
+      <register name="2" type="4">
+        <text>Kiwi | Bienvenido</text>
       </register>
       <register name="3" type="8">
         <text>/note
@@ -85,26 +87,33 @@
 /note
 /note</text>
       </register>
-      <register name="4" type="4">
-        <text>false</text>
+      <register name="4" type="8">
+        <text>/note
+/note
+/note
+/note</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gSXRlU2VydmljZS5saXN0KCk7Cg==</text>
+      <register name="5" type="8">
+        <text>/note
+/note
+/note
+/note
+/note</text>
       </register>
       <register name="6" type="4">
-        <text>m</text>
+        <text>false</text>
       </register>
-      <register name="7" type="4">
-        <text>u</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICByZXR1cm4gSXRlU2VydmljZS5saXN0KCk7Cg==</text>
       </register>
       <register name="8" type="4">
-        <text>bCtrl', ['ItemService',</text>
+        <text>m</text>
       </register>
       <register name="9" type="4">
-        <text>Ctrl</text>
+        <text>u</text>
       </register>
       <register name="-" type="4">
-        <text>false</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgYWx0PSJMb2dvIEtpd2ki</text>
       </register>
       <register name="/" type="4">
         <text>note</text>

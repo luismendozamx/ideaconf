@@ -6,12 +6,6 @@
       <file name="$USER_HOME$/dev/Angular/tutorial/chapter06/public/logging-interceptor.html" timestamp="1453491684313">
         <mark key="[" line="17" column="8" />
       </file>
-      <file name="$USER_HOME$/dev/mercadoni/email/email1.html" timestamp="1453422700775">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="^" line="7" column="0" />
-        <mark key="." line="7" column="0" />
-      </file>
       <file name="$USER_HOME$/dev/Angular/tutorial/chapter05/simple-angularjs-service/app.js" timestamp="1453414867665">
         <mark key="'" line="37" column="2" />
         <mark key="[" line="20" column="38" />
@@ -22,23 +16,17 @@
       <file name="/a.dummy" timestamp="1453418657980">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/dev/mercadoni/api/models/master_calendar.js" timestamp="1453502807243">
+        <mark key="[" line="7" column="4" />
+        <mark key="]" line="8" column="0" />
+        <mark key="^" line="8" column="0" />
+        <mark key="." line="8" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/mercadoni/frontend/js/partials/root.html" timestamp="1453406970304">
         <mark key="[" line="7" column="0" />
         <mark key="]" line="6" column="6" />
         <mark key="^" line="6" column="6" />
         <mark key="." line="6" column="6" />
-      </file>
-      <file name="$USER_HOME$/dev/mercadoni/emails/src/newsletter.html" timestamp="1453423643984">
-        <mark key="[" line="20" column="47" />
-        <mark key="]" line="20" column="75" />
-        <mark key="^" line="20" column="75" />
-        <mark key="." line="20" column="75" />
-      </file>
-      <file name="$USER_HOME$/dev/Angular/tutorial/chapter05/simple-angularjs-service/index.html" timestamp="1453414884961">
-        <mark key="[" line="15" column="50" />
-        <mark key="]" line="30" column="47" />
-        <mark key="^" line="30" column="47" />
-        <mark key="." line="30" column="47" />
       </file>
       <file name="$USER_HOME$/dev/Angular/tutorial/chapter05/item-service-using-provider/app.js" timestamp="1453417380638">
         <mark key="[" line="41" column="31" />
@@ -58,6 +46,24 @@
         <mark key="]" line="12" column="29" />
         <mark key="." line="12" column="29" />
         <mark key="^" line="12" column="29" />
+      </file>
+      <file name="$USER_HOME$/dev/mercadoni/email/email1.html" timestamp="1453422700775">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="^" line="7" column="0" />
+        <mark key="." line="7" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/mercadoni/emails/src/newsletter.html" timestamp="1453423643984">
+        <mark key="[" line="20" column="47" />
+        <mark key="]" line="20" column="75" />
+        <mark key="^" line="20" column="75" />
+        <mark key="." line="20" column="75" />
+      </file>
+      <file name="$USER_HOME$/dev/Angular/tutorial/chapter05/simple-angularjs-service/index.html" timestamp="1453414884961">
+        <mark key="[" line="15" column="50" />
+        <mark key="]" line="30" column="47" />
+        <mark key="^" line="30" column="47" />
+        <mark key="." line="30" column="47" />
       </file>
       <file name="$USER_HOME$/dev/mercadoni/frontend/js/services/User.js" timestamp="1453492086950" />
       <file name="$USER_HOME$/dev/Angular/tutorial/chapter07/karma.conf.js" timestamp="1453493311747">

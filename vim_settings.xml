@@ -13,9 +13,6 @@
         <mark key="." line="20" column="35" />
         <mark key="^" line="20" column="35" />
       </file>
-      <file name="/a.dummy" timestamp="1453418657980">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/dev/mercadoni/api/models/master_calendar.js" timestamp="1453502807243">
         <mark key="[" line="7" column="4" />
         <mark key="]" line="8" column="0" />
@@ -27,6 +24,12 @@
         <mark key="]" line="6" column="6" />
         <mark key="^" line="6" column="6" />
         <mark key="." line="6" column="6" />
+      </file>
+      <file name="$USER_HOME$/dev/mercadoni/frontend/js/factories/hcoHttpInterceptor.js" timestamp="1453508124438">
+        <mark key="[" line="36" column="33" />
+        <mark key="]" line="36" column="35" />
+        <mark key="." line="36" column="35" />
+        <mark key="^" line="36" column="35" />
       </file>
       <file name="$USER_HOME$/dev/Angular/tutorial/chapter05/item-service-using-provider/app.js" timestamp="1453417380638">
         <mark key="[" line="41" column="31" />
@@ -53,6 +56,12 @@
         <mark key="^" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
+      <file name="$USER_HOME$/dev/mercadoni/frontend/package.json" timestamp="1453508290485">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="^" line="10" column="2" />
+        <mark key="." line="1" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/mercadoni/emails/src/newsletter.html" timestamp="1453423643984">
         <mark key="[" line="20" column="47" />
         <mark key="]" line="20" column="75" />
@@ -65,7 +74,19 @@
         <mark key="^" line="30" column="47" />
         <mark key="." line="30" column="47" />
       </file>
+      <file name="$USER_HOME$/dev/mercadoni/frontend-admin/js/factories/hcoHttpInterceptor.js" timestamp="1453507535440">
+        <mark key="[" line="35" column="52" />
+        <mark key="]" line="35" column="54" />
+        <mark key="^" line="35" column="54" />
+        <mark key="." line="35" column="54" />
+      </file>
       <file name="$USER_HOME$/dev/mercadoni/frontend/js/services/User.js" timestamp="1453492086950" />
+      <file name="$USER_HOME$/dev/mercadoni/frontend/bower.json" timestamp="1453508247223">
+        <mark key="[" line="39" column="3" />
+        <mark key="]" line="39" column="2" />
+        <mark key="." line="39" column="2" />
+        <mark key="^" line="39" column="2" />
+      </file>
       <file name="$USER_HOME$/dev/Angular/tutorial/chapter07/karma.conf.js" timestamp="1453493311747">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="9" column="6" />
@@ -90,53 +111,54 @@
       <jump line="0" column="0" filename="$USER_HOME$/dev/Angular/tutorial/chapter07/karma.conf.js" />
     </jumps>
     <registers>
-      <register name="1" type="4">
-        <text>angular-mocks.js',</text>
+      <register name="1" type="2">
+        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>angular-mocks.js',</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
       </register>
       <register name="2" type="4">
-        <text>angular-</text>
+        <text encoding="base64">Cj09PT09PT0KCSJuYW1lIjogImZyb250ZW5kIiwKCSJ2ZXJzaW9uIjogIjEuMC4wIiwKCSJkZXNjcmlwdGlvbiI6ICJNZXJjYWRvbmkgQ2xpZW50IEFwcCIsCgkiZGV2RGVwZW5kZW5jaWVzIjogewoJCSJncnVudCI6ICJeMC40LjUiLAoJCSJncnVudC1jb250cmliLWNvbm5lY3QiOiAiXjAuMTEuMiIsCgkJImdydW50LWNvbnRyaWItanNoaW50IjogIl4wLjEyLjAiLAoJCSJqc2hpbnQtc3R5bGlzaCI6ICJeMi4xLjAiLAoJCSJsb2FkLWdydW50LXRhc2tzIjogIl4zLjQuMCIKCX0KPj4+Pj4+PiAyY2JmMjljNTg0ZmU2NWI4MzIwZTUzNGUyNjM0MmU0OTVlM2UxYTY=</text>
       </register>
-      <register name="3" type="4">
-        <text>angular</text>
+      <register name="3" type="2">
+        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
       </register>
-      <register name="4" type="4">
-        <text>exports</text>
+      <register name="4" type="2">
+        <text encoding="base64">ewo=</text>
       </register>
       <register name="5" type="4">
-        <text>module</text>
+        <text encoding="base64">CgkibmFtZSI6ICJmcm9udGVuZCIsCgkidmVyc2lvbiI6ICIxLjAuMCIsCgkiZGVzY3JpcHRpb24iOiAiTWVyY2Fkb25pIENsaWVudCBBcHAiLAoJImRldkRlcGVuZGVuY2llcyI6IHsKCQkiZ3J1bnQiOiAiXjAuNC41IiwKCQkiZ3J1bnQtY29udHJpYi1jb25uZWN0IjogIl4wLjExLjIiLAoJCSJncnVudC1jb250cmliLWpzaGludCI6ICJeMC4xMi4wIiwKCQkianNoaW50LXN0eWxpc2giOiAiXjIuMS4wIiwKCQkibG9hZC1ncnVudC10YXNrcyI6ICJeMy40LjAiCgl9Cj4+Pj4+Pj4gMmNiZjI5YzU4NGZlNjViODMyMGU1MzRlMjYzNDJlNDk1ZTNlMWE2Mg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIF0sCg==</text>
+      <register name="6" type="4">
+        <text encoding="base64">Cj09PT09PT0=</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgJyouanMnCg==</text>
+      <register name="7" type="4">
+        <text encoding="base64">Cj09PT09PT0KCSJuYW1lIjogIkNsaWVudCBNZXJjYWRvbmkiLAoJInZlcnNpb24iOiAiMC4yLjAiLAoJImF1dGhvcnMiOiBbCgkJIkp1YW4gTWFydMOtbmV6IDxqdWFuLm1hckBnbWFpbC5jb20+IgoJXSwKCSJsaWNlbnNlIjogIk1JVCIsCgkiaWdub3JlIjogWwoJCSIqKi8uKiIsCgkJIm5vZGVfbW9kdWxlcyIsCgkJImJvd2VyX2NvbXBvbmVudHMiLAoJCSJ0ZXN0IiwKCQkidGVzdHMiCgldLAoJImRlcGVuZGVuY2llcyI6IHsKCQkiYW5ndWxhciI6ICJ+MS40LjgiLAoJCSJqcXVlcnkiOiAifjIuMi4wIiwKCQkicmVxdWlyZWpzIjogIn4yLjEuMjIiLAoJCSJhbmd1bGFyLXVpLXJvdXRlciI6ICJ+MC4yLjE1IiwKCQkiYm9vdHN0cmFwIjogIn4zLjMuNiIsCgkJIm1vbWVudCI6ICJ+Mi4xMS4xIiwKCQkiYW5ndWxhci10cmFuc2xhdGUiOiAifjIuOC4xIiwKCQkiYW5ndWxhci10cmFuc2xhdGUtbG9hZGVyLXN0YXRpYy1maWxlcyI6ICJ+Mi44LjEiLAoJCSJhbmd1bGFyLXRyYW5zbGF0ZS1zdG9yYWdlLWxvY2FsIjogIn4yLjguMSIsCgkJImFuZ3VsYXItc2FuaXRpemUiOiAifjEuNC44IiwKCQkianF1ZXJ5LXZhbGlkYXRpb24iOiAifjEuMTQuMCIsCgkJImFuZ3VsYXItc3RyYXAiOiAifjIuMy43IiwKCQkiZm9udC1hd2Vzb21lIjogIn40LjUuMCIsCgkJImFuZ3VsYXItYW5pbWF0ZSI6ICIiLAoJCSJsb2Rhc2giOiAifjMuOS4zIiwKCQkiYW5ndWxhci1tb3Rpb24iOiAifjAuNC4yIiwKCQkiYWxnb2xpYXNlYXJjaCI6ICJ+My43LjIiLAoJCSJlczYtcHJvbWlzZS1wb2x5ZmlsbCI6ICJ+MS4wLjAiLAoJCSJib290c3RyYXAtc29jaWFsIjogIn40LjEyLjAiLAoJCSJhbmd1bGFyLXhlZGl0YWJsZSI6ICJ+MC4xLjkiLAoJCSJlbGV2YXRlem9vbSI6ICJ+Mi4yLjMiLAoJCSJhbmd1bGFyVXRpbHMtcGFnaW5hdGlvbiI6ICJhbmd1bGFyLXV0aWxzLXBhZ2luYXRpb24jfjAuOS40IiwKCQkiZG9tUmVhZHkiOiAicmVxdWlyZWpzLWRvbXJlYWR5I34yLjAuMSIsCgkJInRleHQiOiAicmVxdWlyZWpzLXRleHQjfjIuMC4xNCIKCX0KPj4+Pj4+PiAyY2JmMjljNTg0ZmU2NWI4MzIwZTUzNGUyNjM0MmU0OTVlM2UxYTYy</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgJ2FuZ3VsYXItbW9ja3MuanMnLAo=</text>
+      <register name="8" type="4">
+        <text encoding="base64">Cjw8PDw8PDwgSEVBRA==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgJ2FuZ3VsYXIubWluLmpzJywK</text>
+      <register name="9" type="4">
+        <text>live</text>
       </register>
       <register name="-" type="4">
-        <text>angular-mocks.js',</text>
+        <text>live</text>
       </register>
       <register name="/" type="4">
-        <text>note</text>
+        <text>local_</text>
       </register>
     </registers>
     <search>
-      <last-search>note</last-search>
+      <last-search>local_</last-search>
       <last-offset />
-      <last-pattern>note</last-pattern>
+      <last-pattern>local_</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
         <entry>note</entry>
+        <entry>local_</entry>
       </history-search>
       <history-cmd>
         <entry>set list!</entry>

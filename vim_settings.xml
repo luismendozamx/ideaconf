@@ -93,6 +93,7 @@
         <mark key="." line="9" column="6" />
         <mark key="^" line="9" column="6" />
       </file>
+      <file name="$USER_HOME$/dev/Angular/tutorial/chapter08/filter-example-1.html" timestamp="1453745580767" />
     </filemarks>
     <jumps>
       <jump line="13" column="16" filename="$USER_HOME$/dev/Angular/tutorial/chapter05/simple-angularjs-service/app.js" />
@@ -110,10 +111,19 @@
       <jump line="0" column="0" filename="$USER_HOME$/dev/Angular/tutorial/chapter07/karma.conf.js" />
     </jumps>
     <registers>
-      <register name="1" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
-      </register>
       <register name="&quot;" type="2">
+        <text encoding="base64">L25vdGUK</text>
+      </register>
+      <register name="-" type="4">
+        <text>live</text>
+      </register>
+      <register name="/" type="4">
+        <text>local_</text>
+      </register>
+      <register name="0" type="2">
+        <text encoding="base64">L25vdGUK</text>
+      </register>
+      <register name="1" type="2">
         <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
       </register>
       <register name="2" type="4">
@@ -139,12 +149,6 @@
       </register>
       <register name="9" type="4">
         <text>live</text>
-      </register>
-      <register name="-" type="4">
-        <text>live</text>
-      </register>
-      <register name="/" type="4">
-        <text>local_</text>
       </register>
     </registers>
     <search>

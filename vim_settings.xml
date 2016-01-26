@@ -59,7 +59,7 @@
       <file name="$USER_HOME$/dev/mercadoni/frontend/package.json" timestamp="1453508290485">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="0" />
-        <mark key="^" line="10" column="2" />
+        <mark key="^" line="11" column="2" />
         <mark key="." line="1" column="0" />
       </file>
       <file name="$USER_HOME$/dev/mercadoni/emails/src/newsletter.html" timestamp="1453423643984">
@@ -86,6 +86,25 @@
         <mark key="." line="39" column="2" />
         <mark key="^" line="39" column="2" />
       </file>
+      <file name="$USER_HOME$/dev/mercadoni/frontend/Gruntfile.js" timestamp="1453772148276">
+        <mark key="[" line="123" column="7" />
+        <mark key="]" line="123" column="16" />
+        <mark key="." line="123" column="16" />
+        <mark key="^" line="123" column="16" />
+      </file>
+      <file name="$USER_HOME$/dev/mercadoni/frontend/.gitignore" timestamp="1453770645741">
+        <mark key="d" line="7" column="4" />
+        <mark key="[" line="7" column="3" />
+        <mark key="]" line="7" column="4" />
+        <mark key="^" line="7" column="4" />
+        <mark key="." line="7" column="4" />
+      </file>
+      <file name="$USER_HOME$/dev/mercadoni/frontend/app/index.html" timestamp="1453772048269">
+        <mark key="[" line="31" column="23" />
+        <mark key="]" line="31" column="22" />
+        <mark key="^" line="31" column="22" />
+        <mark key="." line="31" column="22" />
+      </file>
       <file name="$USER_HOME$/dev/Angular/tutorial/chapter07/karma.conf.js" timestamp="1453493311747">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="9" column="6" />
@@ -93,7 +112,6 @@
         <mark key="." line="9" column="6" />
         <mark key="^" line="9" column="6" />
       </file>
-      <file name="$USER_HOME$/dev/Angular/tutorial/chapter08/filter-example-1.html" timestamp="1453745580767" />
     </filemarks>
     <jumps>
       <jump line="13" column="16" filename="$USER_HOME$/dev/Angular/tutorial/chapter05/simple-angularjs-service/app.js" />
@@ -111,11 +129,11 @@
       <jump line="0" column="0" filename="$USER_HOME$/dev/Angular/tutorial/chapter07/karma.conf.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">L25vdGUK</text>
+      <register name="&quot;" type="4">
+        <text>connect</text>
       </register>
       <register name="-" type="4">
-        <text>live</text>
+        <text>connect</text>
       </register>
       <register name="/" type="4">
         <text>local_</text>
@@ -123,32 +141,40 @@
       <register name="0" type="2">
         <text encoding="base64">L25vdGUK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
+      <register name="1" type="4">
+        <text>connect</text>
       </register>
       <register name="2" type="4">
-        <text encoding="base64">Cj09PT09PT0KCSJuYW1lIjogImZyb250ZW5kIiwKCSJ2ZXJzaW9uIjogIjEuMC4wIiwKCSJkZXNjcmlwdGlvbiI6ICJNZXJjYWRvbmkgQ2xpZW50IEFwcCIsCgkiZGV2RGVwZW5kZW5jaWVzIjogewoJCSJncnVudCI6ICJeMC40LjUiLAoJCSJncnVudC1jb250cmliLWNvbm5lY3QiOiAiXjAuMTEuMiIsCgkJImdydW50LWNvbnRyaWItanNoaW50IjogIl4wLjEyLjAiLAoJCSJqc2hpbnQtc3R5bGlzaCI6ICJeMi4xLjAiLAoJCSJsb2FkLWdydW50LXRhc2tzIjogIl4zLjQuMCIKCX0KPj4+Pj4+PiAyY2JmMjljNTg0ZmU2NWI4MzIwZTUzNGUyNjM0MmU0OTVlM2UxYTY=</text>
+        <text>,
+			test: [
+				'copy:styles'
+			],
+			dist: [
+				'copy:styles',
+				'imagemin',
+				'svgmin'
+			]</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
+      <register name="3" type="4">
+        <text encoding="base64">LAoJCQkJCQknITwlPSBjb25maWcuZGlzdCAlPi8uZ2l0eywqL30qJw==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ewo=</text>
+      <register name="4" type="4">
+        <text>, 'karma'</text>
       </register>
       <register name="5" type="4">
-        <text encoding="base64">CgkibmFtZSI6ICJmcm9udGVuZCIsCgkidmVyc2lvbiI6ICIxLjAuMCIsCgkiZGVzY3JpcHRpb24iOiAiTWVyY2Fkb25pIENsaWVudCBBcHAiLAoJImRldkRlcGVuZGVuY2llcyI6IHsKCQkiZ3J1bnQiOiAiXjAuNC41IiwKCQkiZ3J1bnQtY29udHJpYi1jb25uZWN0IjogIl4wLjExLjIiLAoJCSJncnVudC1jb250cmliLWpzaGludCI6ICJeMC4xMi4wIiwKCQkianNoaW50LXN0eWxpc2giOiAiXjIuMS4wIiwKCQkibG9hZC1ncnVudC10YXNrcyI6ICJeMy40LjAiCgl9Cj4+Pj4+Pj4gMmNiZjI5YzU4NGZlNjViODMyMGU1MzRlMjYzNDJlNDk1ZTNlMWE2Mg==</text>
+        <text encoding="base64">J25ld2VyOmpzY3M6dGVzdCcsIA==</text>
       </register>
       <register name="6" type="4">
-        <text encoding="base64">Cj09PT09PT0=</text>
+        <text />
       </register>
       <register name="7" type="4">
-        <text encoding="base64">Cj09PT09PT0KCSJuYW1lIjogIkNsaWVudCBNZXJjYWRvbmkiLAoJInZlcnNpb24iOiAiMC4yLjAiLAoJImF1dGhvcnMiOiBbCgkJIkp1YW4gTWFydMOtbmV6IDxqdWFuLm1hckBnbWFpbC5jb20+IgoJXSwKCSJsaWNlbnNlIjogIk1JVCIsCgkiaWdub3JlIjogWwoJCSIqKi8uKiIsCgkJIm5vZGVfbW9kdWxlcyIsCgkJImJvd2VyX2NvbXBvbmVudHMiLAoJCSJ0ZXN0IiwKCQkidGVzdHMiCgldLAoJImRlcGVuZGVuY2llcyI6IHsKCQkiYW5ndWxhciI6ICJ+MS40LjgiLAoJCSJqcXVlcnkiOiAifjIuMi4wIiwKCQkicmVxdWlyZWpzIjogIn4yLjEuMjIiLAoJCSJhbmd1bGFyLXVpLXJvdXRlciI6ICJ+MC4yLjE1IiwKCQkiYm9vdHN0cmFwIjogIn4zLjMuNiIsCgkJIm1vbWVudCI6ICJ+Mi4xMS4xIiwKCQkiYW5ndWxhci10cmFuc2xhdGUiOiAifjIuOC4xIiwKCQkiYW5ndWxhci10cmFuc2xhdGUtbG9hZGVyLXN0YXRpYy1maWxlcyI6ICJ+Mi44LjEiLAoJCSJhbmd1bGFyLXRyYW5zbGF0ZS1zdG9yYWdlLWxvY2FsIjogIn4yLjguMSIsCgkJImFuZ3VsYXItc2FuaXRpemUiOiAifjEuNC44IiwKCQkianF1ZXJ5LXZhbGlkYXRpb24iOiAifjEuMTQuMCIsCgkJImFuZ3VsYXItc3RyYXAiOiAifjIuMy43IiwKCQkiZm9udC1hd2Vzb21lIjogIn40LjUuMCIsCgkJImFuZ3VsYXItYW5pbWF0ZSI6ICIiLAoJCSJsb2Rhc2giOiAifjMuOS4zIiwKCQkiYW5ndWxhci1tb3Rpb24iOiAifjAuNC4yIiwKCQkiYWxnb2xpYXNlYXJjaCI6ICJ+My43LjIiLAoJCSJlczYtcHJvbWlzZS1wb2x5ZmlsbCI6ICJ+MS4wLjAiLAoJCSJib290c3RyYXAtc29jaWFsIjogIn40LjEyLjAiLAoJCSJhbmd1bGFyLXhlZGl0YWJsZSI6ICJ+MC4xLjkiLAoJCSJlbGV2YXRlem9vbSI6ICJ+Mi4yLjMiLAoJCSJhbmd1bGFyVXRpbHMtcGFnaW5hdGlvbiI6ICJhbmd1bGFyLXV0aWxzLXBhZ2luYXRpb24jfjAuOS40IiwKCQkiZG9tUmVhZHkiOiAicmVxdWlyZWpzLWRvbXJlYWR5I34yLjAuMSIsCgkJInRleHQiOiAicmVxdWlyZWpzLXRleHQjfjIuMC4xNCIKCX0KPj4+Pj4+PiAyY2JmMjljNTg0ZmU2NWI4MzIwZTUzNGUyNjM0MmU0OTVlM2UxYTYy</text>
+        <text>, 'newer:jscs:all'</text>
       </register>
       <register name="8" type="4">
-        <text encoding="base64">Cjw8PDw8PDwgSEVBRA==</text>
+        <text encoding="base64">CgkJc3R5bGVzOiAnYXBwL2NzcycsCgkJc3JjaXB0czogJ2FwcC9qcycs</text>
       </register>
-      <register name="9" type="4">
-        <text>live</text>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
     </registers>
     <search>
